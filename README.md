@@ -1,4 +1,4 @@
-# Teamspeak3-Issues
+# Issues for the Teamspeak 3 Community
 
 ![](https://ts3index.com/banner/s000_273216.png)
 
